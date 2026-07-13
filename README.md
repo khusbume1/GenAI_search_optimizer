@@ -363,24 +363,6 @@ Read the design rationale in [`docs/08-DESIGN-DECISIONS.md`](docs/08-DESIGN-DECI
 6. Add CMS integrations that create drafts with human approval.
 7. Add observability, retry policies, audit logs, and cost controls.
 
-## Portfolio summary
-
-**Project:** Generative AI Search Optimizer  
-**Role demonstrated:** AI product engineering / Python backend / data application development  
-**Technologies:** Python, Claude Code Skills, FastAPI, Streamlit, SQLite, pytest, GitHub Actions  
-**Core achievement:** Converted a command-driven GEO skill into a traceable application that accepts website inputs, orchestrates analysis, structures AI-generated reports, persists results, and exposes outputs through three user interfaces.
-
-A CV-ready bullet is included in [`docs/07-PORTFOLIO-PRESENTATION.md`](docs/07-PORTFOLIO-PRESENTATION.md). Step-by-step publishing instructions are in [`docs/09-PUBLISH-TO-GITHUB.md`](docs/09-PUBLISH-TO-GITHUB.md).
-
-## Responsible use
-
-- Audit only public websites you are authorized to assess.
-- Respect robots.txt, crawl limits, rate limits, and website terms.
-- Do not add broad permission-bypass flags to Claude execution.
-- Review AI-generated recommendations before implementation.
-- Validate generated schema and content before publishing.
-- Never present GEO recommendations as guaranteed search-engine outcomes.
-
 ## Attribution
 
 This application integrates with [`zubair-trabzada/geo-seo-claude`](https://github.com/zubair-trabzada/geo-seo-claude), an MIT-licensed project. Its authors own and maintain the upstream skill. This repository contains an independent application layer and installs the upstream project as an external dependency.
