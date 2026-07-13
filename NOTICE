@@ -1,0 +1,12 @@
+Generative AI Search Optimizer
+Copyright (c) 2026 Chandan Gupta
+
+This application integrates with the separate open-source project:
+
+  geo-seo-claude
+  https://github.com/zubair-trabzada/geo-seo-claude
+
+The upstream project is licensed under the MIT License and remains owned and
+maintained by its respective authors and contributors. This repository does not
+claim authorship of the upstream Claude skills. The bootstrap script obtains the
+upstream repository as an external dependency.

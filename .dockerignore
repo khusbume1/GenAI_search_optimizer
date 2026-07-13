@@ -1,0 +1,9 @@
+.venv
+.git
+.github
+vendor
+data/runs/*
+data/geo_optimizer.db
+__pycache__
+.pytest_cache
+.ruff_cache
