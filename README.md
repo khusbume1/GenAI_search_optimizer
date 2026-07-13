@@ -279,8 +279,6 @@ curl -X POST http://127.0.0.1:8000/audits \
   -d '{"url":"https://example.com","mode":"full"}'
 ```
 
-See [`docs/05-API-REFERENCE.md`](docs/05-API-REFERENCE.md) for the complete contract.
-
 ## Streamlit dashboard
 
 ```bash
@@ -341,8 +339,6 @@ GitHub Actions runs the same checks for every push and pull request.
 - **Markdown parsing** separates AI-generated narrative from application data.
 - **External integration** keeps upstream ownership and licensing clear.
 
-Read the design rationale in [`docs/08-DESIGN-DECISIONS.md`](docs/08-DESIGN-DECISIONS.md).
-
 ## Limitations
 
 - Live audit quality depends on the installed upstream skill and accessible website content.
@@ -368,6 +364,3 @@ This application integrates with [`zubair-trabzada/geo-seo-claude`](https://gith
 ## License
 
 This application layer is available under the [MIT License](LICENSE). See [NOTICE](NOTICE) for upstream attribution.
-
-Here is an example with a live website: 
- []((https://github.com/khusbume1/GenAI_search_optimizer/blob/main/Generative%20AI%20Search%20Optimizer.pdf))
