@@ -3,12 +3,13 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/API-FastAPI-009688)](https://fastapi.tiangolo.com/)
 [![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B)](https://streamlit.io/)
-[![Tests](https://github.com/OWNER/REPOSITORY/actions/workflows/ci.yml/badge.svg)](../../actions/workflows/ci.yml)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A portfolio-ready **Generative Engine Optimization (GEO)** platform that turns Claude Code GEO skills into a repeatable application with a CLI, REST API, dashboard, structured report parsing, SQLite history, competitor comparison, and implementation planning.
 
-![]([(https://github.com/khusbume1/GenAI_search_optimizer/blob/main/dashboard-preview.svg))]_
+<img width="819" height="410" alt="image" src="https://github.com/user-attachments/assets/93512f0b-88b5-42d8-948d-e9d29a51338c" />
+
+
 
 ## Why I built this project
 
