@@ -8,9 +8,7 @@
 
 A portfolio-ready **Generative Engine Optimization (GEO)** platform that turns Claude Code GEO skills into a repeatable application with a CLI, REST API, dashboard, structured report parsing, SQLite history, competitor comparison, and implementation planning.
 
-> Replace `OWNER/REPOSITORY` in the test badge after publishing the repository.
-
-![Illustrative dashboard preview](docs/assets/dashboard-preview.svg)
+![Illustrative dashboard preview]([docs/assets/dashboard-preview.svg](https://github.com/khusbume1/GenAI_search_optimizer/blob/main/dashboard-preview.svg))
 
 ## Why I built this project
 
