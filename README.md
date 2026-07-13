@@ -5,13 +5,13 @@
 [![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A portfolio-ready **Generative Engine Optimization (GEO)** platform that turns Claude Code GEO skills into a repeatable application with a CLI, REST API, dashboard, structured report parsing, SQLite history, competitor comparison, and implementation planning.
+A **Generative Engine Optimization (GEO)** platform that turns Claude Code GEO skills into a repeatable application with a CLI, REST API, dashboard, structured report parsing, SQLite history, competitor comparison, and implementation planning.
 
 <img width="819" height="410" alt="image" src="https://github.com/user-attachments/assets/93512f0b-88b5-42d8-948d-e9d29a51338c" />
 
 
 
-## Why I built this project
+## Why Generative Search Optimization
 
 Traditional SEO tools mainly evaluate web search signals. Generative search experiences also need content that is easy for AI systems to discover, understand, attribute, and cite. This project demonstrates how an existing Claude skill can be transformed into a small software product with validation, orchestration, persistence, APIs, visualization, testing, and documentation.
 
