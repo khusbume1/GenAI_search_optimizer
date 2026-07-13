@@ -9,7 +9,7 @@ A **Generative Engine Optimization (GEO)** platform that turns Claude Code GEO s
 
 <img width="819" height="410" alt="image" src="https://github.com/user-attachments/assets/93512f0b-88b5-42d8-948d-e9d29a51338c" />
 
-
+[`example-output-for-a-live-website`](https://github.com/khusbume1/GenAI_search_optimizer/blob/main/Generative%20AI%20Search%20Optimizer.pdf)
 
 ## Why Generative Search Optimization
 
