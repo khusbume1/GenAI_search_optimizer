@@ -177,8 +177,6 @@ The main runnable files are:
 
 ## Quick start: demo mode
 
-Demo mode is the easiest way for a recruiter or reviewer to run the project. It does not require Claude Code and does not fetch a website.
-
 ```bash
 # 1. Clone your repository
 git clone https://github.com/OWNER/REPOSITORY.git
