@@ -368,3 +368,6 @@ This application integrates with [`zubair-trabzada/geo-seo-claude`](https://gith
 ## License
 
 This application layer is available under the [MIT License](LICENSE). See [NOTICE](NOTICE) for upstream attribution.
+
+Here is an example with a live website: 
+ []((https://github.com/khusbume1/GenAI_search_optimizer/blob/main/Generative%20AI%20Search%20Optimizer.pdf))
