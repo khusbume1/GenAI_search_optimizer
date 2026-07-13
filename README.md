@@ -33,8 +33,10 @@ The application integrates with the open-source [`geo-seo-claude`](https://githu
 ## Input → Process → Output
 
 <p align="center">
-  <img src="docs/assets/geo-workflow.svg" alt="Input, process, and output workflow for the Generative AI Search Optimizer" width="900">
+  <img width="386" height="398" alt="image" src="https://github.com/user-attachments/assets/6c978d04-88e7-45af-a735-943a3c1baac8" />
 </p>
+
+
 
 <p align="center"><em>Figure 1 — A website URL is validated, analyzed through either the live Claude path or local demo path, structured, persisted, and delivered as actionable GEO results.</em></p>
 
@@ -106,14 +108,10 @@ Example structured output:
 ## Architecture
 
 <p align="center">
-  <img src="docs/assets/system-architecture.svg" alt="Layered system architecture for the Generative AI Search Optimizer" width="780">
+  <img width="236" height="370" alt="image" src="https://github.com/user-attachments/assets/372d64ba-1f40-4a0b-b192-83ee59bd0547" />
 </p>
 
 <p align="center"><em>Figure 2 — Layered architecture separating presentation, orchestration, AI execution, deterministic structuring, and persistence.</em></p>
-
-More detail is available in [`docs/03-ARCHITECTURE.md`](docs/03-ARCHITECTURE.md).
-
-The editable Graphviz source files are included under `docs/assets/*.dot`, while GitHub displays the generated SVG versions.
 
 ## Features
 
